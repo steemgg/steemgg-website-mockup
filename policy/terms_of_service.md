@@ -1,5 +1,3 @@
-Please read and accept the Terms of Service. You must scroll to the bottom to proceed.
-
 # Terms of Service
 
 Last Updated At: 1st July, 2018
@@ -10,7 +8,7 @@ You understand and agree that these Terms apply solely to your access to, and us
 
 ## 1. Privacy Policy
 
-Please refer to our Privacy Policy <https://steemgg.com/privacy> for information about how we collect, use and disclose information about you. 
+Please refer to our Privacy Policy <https://steemgg.com/#/privacy> for information about how we collect, use and disclose information about you. 
 
 ## 2. Eligibility
 
